@@ -2,6 +2,9 @@
 
 **中文** | [English](README.en.md)
 
+> **兼容镜像。** 这个仓库只为让已经装出去的客户端继续拿到新版本：项目、源码与发布说明在
+> [furryaxw/SprocketModManager](https://github.com/furryaxw/SprocketModManager)。
+
 Sprocket 模组注册表、GitHub Pages 目录与 Windows GUI 客户端。
 
 仓库只人工维护模组级基础 meta。GitHub Actions 每小时从每个模组仓库读取一次 Release，

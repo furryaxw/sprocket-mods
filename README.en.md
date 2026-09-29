@@ -2,6 +2,10 @@
 
 [中文](README.md) | **English**
 
+> **Compatibility mirror.** This repository only keeps installed clients supplied with new versions:
+> the project, its sources, and its release notes are at
+> [furryaxw/SprocketModManager](https://github.com/furryaxw/SprocketModManager).
+
 A Sprocket mod registry, GitHub Pages catalog, and Windows GUI client.
 
 Only package-level metadata is maintained by hand. Every hour, GitHub Actions reads
